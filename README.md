@@ -48,7 +48,7 @@ Stores:
 - parameters  
 - metrics  
 - artifact path  
-- created_at  
+- created_at 
 
 Backed by an extended `registry.json`.
 
